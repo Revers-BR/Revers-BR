@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Me chamo Rivair 👋
 
-<!--
-**Revers-BR/Revers-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, experimentos e contribuições relacionados a desenvolvimento de software, automação, scripts úteis e muito mais.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desenvolvedor apaixonado por tecnologia, programação e inovação.
+- 👨‍💻 Trabalho com diversas linguagens e frameworks.
+- 🎯 Foco em aprender, compartilhar conhecimento e colaborar em projetos open source.
+- 🌱 Atualmente aprendendo novas tecnologias e aprimorando habilidades.
+- 🤝 Aberto para colaborações e projetos interessantes!
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens:** JavaScript, Python, TypeScript, Dart
+- **Frameworks:** NestJS, VueJS, Express, Django, Flutter
+- **DevOps:** Docker, Azure Devops
+- **Banco de Dados:** SQL Server, PostgreSQL
+- **Outros:** Linux, Bash, APIs REST
+
+## 📈 Estatísticas do GitHub
+
+![Revers-BR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revers-BR&show_icons=true&theme=tokyonight)
+
+## 📫 Como me encontrar
+
+- Email: [reversrivair@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/rivair-sabino]
+
+---
+
+Obrigado por visitar! Vamos construir algo incrível juntos! 🚀
