@@ -22,10 +22,14 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, experimentos
 
 ![Revers-BR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revers-BR&show_icons=true&theme=tokyonight)
 
+## 👀 Visitas no perfil
+
+![contador de visitas](https://profile-counter.glitch.me/Revers-BR/count.svg)
+
 ## 📫 Como me encontrar
 
-- Email: [reversrivair@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/rivair-sabino]
+- Email: [reversrivair@gmail.com](mailto:reversrivair@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/rivair-sabino](https://www.linkedin.com/in/rivair-sabino)
 
 ---
 
