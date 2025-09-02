@@ -25,10 +25,6 @@ Welcome to my GitHub profile! Here you'll find projects, experiments, and contri
 
 ![Revers-BR's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revers-BR&show_icons=true&theme=tokyonight)
 
-## 👀 Profile Views
-
-![Profile views counter](https://profile-counter.glitch.me/Revers-BR/count.svg)
-
 ## 📫 How to Reach Me
 
 - 📧 Email: [reversrivair@gmail.com](mailto:reversrivair@gmail.com)  
